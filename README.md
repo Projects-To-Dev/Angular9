@@ -5,7 +5,6 @@
 
 1. ### Ivy : *Smaller, Faster, Simpler* 
 	#### You can enable Ivy in angular 8 by Add the following lines to the tsconfig.json 
-	Enable Ivy in angular 8:
 
 	```bash
 	"angularCompilerOptions": {
