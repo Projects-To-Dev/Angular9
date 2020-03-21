@@ -12,27 +12,17 @@
 		"enableivy": true
 	}
 	```
+	And then run compiler by executing the ngc command, inside the project folder:
 
-2. ### Ivy : *Smaller, Faster, Simpler* 
-3. **Ivy** : *Smaller, Faster, Simpler* 
+	```
+	$ node_modules/.bin/ngc
+	```
 
 
+2. ### Internationalization: 
+3. ### Dependency Injection:
 
-And then run compiler by executing the ngc command, inside the project folder:
 
-```
-$ node_modules/.bin/ngc
-```
-
-### Internationalization:
-
-### Dependency Injection:
 
 
 >## Breaking Changes
-
-1. - [x] Creating documentation
-     * - [x] Markdown
-      * - [ ] Markdown
-    - [ ] Markdown
-1. - [ ] Markdown
